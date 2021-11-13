@@ -1,4 +1,5 @@
 # w700ds-screen-switcher
+![w700ds in action](w700ds.gif)
 
 The Lenovo Thinkpad W700ds is a special laptop with a second pull-out screen. This is a script to turn the second
 monitor on and off.
